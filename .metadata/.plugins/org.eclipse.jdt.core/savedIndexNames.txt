@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\kiran\Desktop\SparkPythonDoBigDataAnalytics-Resources\.metadata\.plugins\org.eclipse.jdt.core
+3623454524.index
